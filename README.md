@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Shukla
-- 👀 I am a passionate web developer with one year of experience in PHP CodeIgniter and Laravel frameworks.
+- 👀 I am a passionate web developer with one year of experience in PHP and it's frameworks, CodeIgniter and Laravel.
 - 🌱 I am also interested in learning and working with React.js to build modern and dynamic web applications.
 - 💞️ My Skills
 -     PHP
